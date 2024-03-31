@@ -96,7 +96,7 @@ Apply Forwarding License:
 •	Save the changes and restart Splunk to apply the license.
 
 <p align="center">
-<img src="https://imgur.com/undefined.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/GPH1lBS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
