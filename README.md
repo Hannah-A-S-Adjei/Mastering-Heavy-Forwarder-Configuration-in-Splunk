@@ -8,7 +8,7 @@ Configuring a heavy forwarder in Splunk involves setting up the forwarding and r
 <h2>Execution Steps</h2>
 Configure Receiving on Indexers and Search Head:
 Navigate to "Settings" and proceed to "Forwarding and Receiving".
-Initiate the configuration of receiving by selecting the appropriate option.
+
 
 
 <p align="center">
@@ -17,8 +17,7 @@ Initiate the configuration of receiving by selecting the appropriate option.
 <br />
 <br />
  
-Set Up Receiving Port
-
+Initiate the configuration of receiving by selecting the appropriate option.
 <p align="center">
 <img src="https://imgur.com/77ksIve.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -62,7 +61,7 @@ Add New Forwarding Host:
 <br />
 <br />
 
-Enter the host IP address or hostname along with the designated port. You can determine the IP address using the command "ip addr" on your server. Save the settings to activate forwarding.
+Enter the host IP address or hostname along with the designated port. You can determine the IP address using the command "ip addr" on your server as shown in the second image. Save the settings to activate forwarding.
 
 <p align="center">
 <img src="https://imgur.com/w4I03ZL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -100,15 +99,15 @@ Apply Forwarding License:
 <br />
 <br />
 
-Forward Data and Monitor Directory:
+Forward Data and Monitor Directory: After restarting, proceed to "Settings" once more and select "Add Data".
 
 <p align="center">
 <img src="https://imgur.com/M0hlzrL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
-Now to monitor your directory on the forwarder.
-•	After restarting, proceed to "Settings" once more and select "Add Data".
+Now monitor your directory on the forwarder.
+
 
 <p align="center">
 <img src="https://imgur.com/7u5KD9x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
